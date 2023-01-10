@@ -8,7 +8,7 @@ color: white;
 .boxbild
 {
     width: 300px;
-    border: 15px solid white;
+    border: 5px solid white;
     margin: 0 auto;
     display: block;
     position: relative;
@@ -17,9 +17,11 @@ color: white;
 .boxname
 {
     height: 35px;
-    width: 70px;
-  background-color: wheat;
+    width: 100px;
+  
     position: absolute;
+    top: 25px;
+    right: -15px;
    
     /* right: 500px;
     bottom: 300px; */
@@ -37,14 +39,15 @@ img
 
 .firstname
 {
-    /* width: 75px;
-    height: 20px; */
+    width: 90px;
+    height: 15px;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     background: rgba(228, 218, 218, 0.866);
-    border: 5px solid green;
+    border: 5px solid rgb(61, 152, 61);
     border-radius: 25px;
+    margin-bottom: 10px;
 
   
     color: black;
@@ -53,13 +56,13 @@ img
 
 .secondname
 {
-    /* width: 75px;
-    height: 20px; */
+    width: 90px;
+    height: 15px;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     background:rgba(228, 218, 218, 0.866);
-    border: 5px solid green;
+    border: 5px solid rgb(61, 152, 61);
     border-radius: 25px;
    
     color: black;
