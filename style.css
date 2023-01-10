@@ -1,0 +1,66 @@
+body
+{
+background: black;
+color: white;
+}
+
+
+.boxbild
+{
+    width: 300px;
+    border: 15px solid white;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+}
+
+.boxname
+{
+    height: 35px;
+    width: 70px;
+  background-color: wheat;
+    position: absolute;
+   
+    /* right: 500px;
+    bottom: 300px; */
+}
+
+img
+{
+    width: 100%;
+    height: 200px;
+    display: block;
+
+}
+
+
+
+.firstname
+{
+    /* width: 75px;
+    height: 20px; */
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgba(228, 218, 218, 0.866);
+    border: 5px solid green;
+    border-radius: 25px;
+
+  
+    color: black;
+    
+}
+
+.secondname
+{
+    /* width: 75px;
+    height: 20px; */
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background:rgba(228, 218, 218, 0.866);
+    border: 5px solid green;
+    border-radius: 25px;
+   
+    color: black;
+}
